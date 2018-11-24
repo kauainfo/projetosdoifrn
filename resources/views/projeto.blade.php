@@ -20,7 +20,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-sm">
-                            <p class="txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis consectetur lacus ut porta. Quisque arcu tortor, tempus a purus nec, feugiat ornare ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor placerat arcu, non rutrum quam tincidunt et. Cras eu odio sit amet tortor bibendum egestas at et diam. Praesent consequat augue et ante volutpat interdum. Fusce pulvinar sem sed ex. </p>
+                            <p class="txt">Lorem ipsunno dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis consectetur lacus ut porta. Quisque arcu tortor, tempus a purus nec, feugiat ornare ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor placerat arcu, non rutrum quam tincidunt et. Cras eu odio sit amet tortor bibendum egestas at et diam. Praesent consequat augue et ante volutpat interdum. Fusce pulvinar sem sed ex. </p>
                             </div>
                             <div class="col-sm">
                                 <img height="350" width="500" src="http://imagem.band.com.br/f_373814.jpg" alt="fotoprincipl">
