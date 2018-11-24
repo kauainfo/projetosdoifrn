@@ -1,0 +1,96 @@
+html,body{
+    background-color:#f5f6fa;
+    position: relative;
+    height: 100%;
+}
+.color{
+    background-color: #27ae60;
+    padding: 30px;
+}
+.principal{
+    background-color:#f5f6fa;
+}
+.projetosifrn{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+.tt{
+    height: 200px;
+}
+.img{
+    height: 100px;
+}
+.mostraprojetos{
+    margin: auto;
+    padding: auto;
+    display: block;
+    background-color:white;
+}
+.txt{
+    font-family: 'nunito',sans-serif;
+    font-size: 20px;
+    padding-right: 10px;
+    text-align: justify;
+}
+.txtbusca{
+    font-family: 'nunito', sans-serif;
+    font-size: 23px;
+    margin-bottom: 5px;
+    padding-top: 15px;
+}
+.lc{
+    font-size: 18px;
+    color: #27ae60;
+}
+.rodape{
+    color: white;
+    text-align: center;
+}
+.colorpe{
+    background-color: #27ae60;
+    padding: 10px;
+}
+
+.busca{
+    background-color: white;
+}
+.radio{
+    margin-bottom: 1px;
+}
+.txtbusca2{
+    font-size: 23px;
+    margin-bottom: 5px;
+    padding-top: 28px;
+}
+.tit{
+    padding-top: 10px;
+}
+.vazio{
+    padding-bottom: 12px;
+}
+
+.login{
+    background-color: white;
+}
+.vaziaLogintop{
+    padding-bottom: 40px;
+}
+.vaziaLoginbot{
+    padding-bottom: 40px;
+}
+.txtl{
+    color:white;
+}
+.txtandamento{
+    color: orange;
+}
+.fg{
+    width: 50%;
+}
+.h2login{
+    padding-right: 338px;
+}
+.projeto{
+    background-color: white;
+}
