@@ -4,7 +4,7 @@
                 <div class="form-group">
                     <p class="txtbusca">BUSCA:</p>
                     <input type="text" class="form-control" id="pesquisa" placeholder="pesquise...">
-
+                    <button class="btn btn-primary" type="submit"><a href="/projeto" class="txtl">Entrar</a></button>
                     <p class="txtbusca2">TIPO:</p>
                     <div class="radio">
                             <label><input type="radio" name="optradio" checked>Pesquisa</label>

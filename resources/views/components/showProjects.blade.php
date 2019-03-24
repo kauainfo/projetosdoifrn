@@ -8,7 +8,7 @@
                               <p class="txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut dolor massa. Nam sodales nisl suscipit sagittis aliquet. Aliquam ultricies molestie eros. Vivamus fringilla volutpat metus, ac posuere tellus venenatis at.</p> </td> 
 
                                 <td>
-                                <button class="btn btn-primary" type="submit"><a href="/inicio" class="txtl">Entrar</a></button>
+                                <button class="btn btn-primary" type="submit"><a href="/projeto" class="txtl">Entrar</a></button>
                                 </td>
                                 </tr>
                                
