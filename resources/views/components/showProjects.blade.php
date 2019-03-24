@@ -7,7 +7,9 @@
                                   <td> <h5 class="tit">Título</h5> <p class="txtandamento">(em andamento)</p> 
                               <p class="txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut dolor massa. Nam sodales nisl suscipit sagittis aliquet. Aliquam ultricies molestie eros. Vivamus fringilla volutpat metus, ac posuere tellus venenatis at.</p> </td> 
 
-                                <td><button type="button" class="btn btn-info"><a href="/projeto">+</a></button></td>
+                                <td>
+                                <button class="btn btn-primary" type="submit"><a href="/inicio" class="txtl">Entrar</a></button>
+                                </td>
                                 </tr>
                                
                               </table>

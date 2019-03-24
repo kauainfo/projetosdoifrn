@@ -15,12 +15,8 @@ Route::get('/', function () {
     return view('login');
 });
 
-Route::get('/login', function () {
-    return view('index');
-});
-
-Route::get('/cadastrado', function () {
-    return view('cadastrado');
+Route::get('/inicio', function () {
+    return view('inicio');
 });
 
 Route::get('/cadastro', function () {
@@ -30,4 +26,16 @@ Route::get('/cadastro', function () {
 
 Route::get('/projeto', function () {
     return view('projeto');
+});
+
+Route::get('/cadastroprojeto', function () {
+    return view('cadastroprojeto');
+});
+
+Route::get('/conta', function () {
+    return view('conta');
+});
+
+Route::get('/meusprojetos', function () {
+    return view('meusprojetos');
 });

@@ -34,9 +34,9 @@
         <!--Fim-->
     </div>
 </div>
-    <div class="container-fluid colorpe">
+<footer class="footer navbar-fixed-bottom colorpe">
         <p class="rodape"> IFRN, 2018.</p>
-    </div>
+</footer>
 
 </body>
 </html>

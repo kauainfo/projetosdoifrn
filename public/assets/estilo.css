@@ -50,6 +50,7 @@ html,body{
 .colorpe{
     background-color: #27ae60;
     padding: 10px;
+
 }
 
 .busca{
@@ -93,4 +94,11 @@ html,body{
 }
 .projeto{
     background-color: white;
+}
+
+.footer {
+    display: block;
+    bottom:0;
+    left:0;
+    width: 100%;
 }

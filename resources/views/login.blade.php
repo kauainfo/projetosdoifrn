@@ -24,7 +24,7 @@
                     <div class="vaziaLogintop">
                     </div>
 
-                  <button class="btn btn-primary" type="submit"><a href="/cadastrado" class="txtl">Acessar</a></button>
+                  <button class="btn btn-primary" type="submit"><a href="/inicio" class="txtl">Acessar</a></button>
 
                   <div class="vaziaLogintop">
                     </div>
